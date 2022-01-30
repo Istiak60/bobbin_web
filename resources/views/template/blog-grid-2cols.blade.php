@@ -101,7 +101,7 @@
                             </article><!-- End .entry -->
                         </div><!-- End .entry-item -->
 
-                        <!-- <div class="entry-item lifestyle fashion col-sm-6">
+                        <div class="entry-item lifestyle fashion col-sm-6">
                             <article class="entry entry-grid text-center">
                                 <figure class="entry-media">
                                     <div class="owl-carousel owl-simple owl-light owl-nav-inside" data-toggle="owl">
@@ -111,7 +111,7 @@
                                         <a href="single.html">
                                             <img src="assets/images/blog/grid/2cols/post-1.jpg" alt="image desc">
                                         </a>
-                                    </div> -->
+                                    </div>
                                     <!-- End .owl-carousel -->
                                 </figure><!-- End .entry-media -->
 
